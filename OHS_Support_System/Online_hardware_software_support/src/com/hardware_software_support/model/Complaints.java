@@ -11,8 +11,9 @@ public class Complaints {
 	private String status;
 	private Date dateRaised;
 	private Date dateResolved;
-	
-	public Complaints() {}
+
+	public Complaints() {
+	}
 
 	public Complaints(int complaintId, int empId, String complaintType, int engId, String status, Date dateRaised,
 			Date dateResolved) {
@@ -88,6 +89,5 @@ public class Complaints {
 				+ ", engId=" + engId + ", status=" + status + ", dateRaised=" + dateRaised + ", dateResolved="
 				+ dateResolved + "]";
 	}
-	
-	
+
 }
