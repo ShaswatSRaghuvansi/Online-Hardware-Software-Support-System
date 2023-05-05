@@ -1,13 +1,14 @@
 package com.hardware_software_support.model;
 
 public class Hod {
-	
+
 	private int hodId;
 	private String name;
 	private String userName;
 	private String password;
-	
-	public Hod() {}
+
+	public Hod() {
+	}
 
 	public Hod(int hodId, String name, String userName, String password) {
 		this.hodId = hodId;
@@ -52,8 +53,5 @@ public class Hod {
 	public String toString() {
 		return "Hod [hodId=" + hodId + ", name=" + name + ", userName=" + userName + ", password=" + password + "]";
 	}
-	
-	
-	
-	
+
 }
