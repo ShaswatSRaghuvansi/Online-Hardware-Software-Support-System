@@ -1,7 +1,7 @@
 # valid-circle-9091
 # Online Hardware & Software Support System
 
-![project3](https://github.com/ShaswatSRaghuvansi/Online-Hardware-Software-Support-System/assets/115460278/65b6923a-6d9a-4fef-b487-7a7ee2a472e2)
+![1](https://github.com/ShaswatSRaghuvansi/Online-Hardware-Software-Support-System/assets/115460278/70b7954c-db47-4244-bad3-a304e19a94bf)
 
 **Problem Description:** Our system provides 24/7 online access for employees, engineers, department heads, and administrators. It ensures the productivity of your IT staff through fast, accurate, remote technical support for your system environment. Our service covers defect support for various products running on your system hardware. Key factors to consider include downtime costs, skill retention, overheads, customer satisfaction, and more.
 
